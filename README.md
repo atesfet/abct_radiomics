@@ -4,7 +4,7 @@ Parallelized Intensity and Volume Quantification of Abdominal CT
 #Requires FSL
 https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
 
-NOTE: PHI SAFE-RUNS ON ANONYMYZED PATIENT IDENTIFIER
+NOTE: PHI SAFE-RUNS ON ANONYMYZED PATIENT IDENTIFIERS
 
 The updated scripts will be under /dataNAS/people/atesfet/IV.
 
